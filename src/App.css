@@ -52,7 +52,7 @@ body{
 }
 
 nav a.nav-link {
-  font-weight: 500;
+  font-size:.8rem;
   letter-spacing: 0.0375rem;
   cursor: pointer;
 }
@@ -70,5 +70,6 @@ nav ul ui {
 .navbar-brand {
   max-width: 9rem;
   padding: 0 !important;
+  margin-right: 10rem !important;
   height: 8rem !important;
 }
